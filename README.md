@@ -13,11 +13,11 @@
     <img height="40" aling="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
     <img height="40" aling="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <img height="40" aling="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-    <img height="40" aling="center" alt="html5" src="https://camo.githubusercontent.com/c76217244e1b3700a87058abf858e20a313b06dfadd972121d0d42de5bd20fa5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d6f726967696e616c2e737667"/>
+    <img height="40" aling="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/>
 </div>
 
 ## Database!
 
 <div>
-    <img height="40" aling="center" alt="html5" src="https://camo.githubusercontent.com/d536b9cc0c533324368535ece721f5424f28eae3ec0e6f3847408948ecacfce6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667"/>
+    <img height="50" aling="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </div>
